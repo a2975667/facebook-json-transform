@@ -1,0 +1,14 @@
+{
+  "name": "facebook-json-transform",
+  "version": "0.0.1",
+  "description": "Resolve facebook json file encoding file.",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tcheng",
+  "license": "ISC",
+  "dependencies": {
+    "utf8": "^3.0.0"
+  }
+}
